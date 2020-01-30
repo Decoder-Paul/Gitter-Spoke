@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <can_edit_in_studio>false</can_edit_in_studio>
+        <enforce_license>log</enforce_license>
+        <guided_setup_guid/>
+        <js_level>helsinki_es5</js_level>
+        <licensable>true</licensable>
+        <license_category>none</license_category>
+        <license_model>none</license_model>
+        <logo>73f02dff2f124410e7f055272799b622</logo>
+        <menu/>
+        <name>Gitter Spoke</name>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_185256_gitter_sp</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description>Integration with Gitter.im</short_description>
+        <source>x_185256_gitter_sp</source>
+        <store_correlation_id/>
+        <store_url/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-19 06:00:42</sys_created_on>
+        <sys_id>17f06dbf2f924410e7f055272799b662</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-19 06:00:45</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <user_role/>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/jpeg</content_type>
+        <file_name>gitter-logo.jpg</file_name>
+        <hash>e38db7d3a6a94ee9cfdb9b9d3f7d81ed41c55cc2c400a7ca759d4cb1f99d786e</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>2765</size_bytes>
+        <size_compressed>2241</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-19 06:00:44</sys_created_on>
+        <sys_id>73f02dff2f124410e7f055272799b622</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2020-01-19 06:00:44</sys_updated_on>
+        <table_name>sys_app</table_name>
+        <table_sys_id>17f06dbf2f924410e7f055272799b662</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="gitter-logo.jpg" sys_id="73f02dff2f124410e7f055272799b622">73f02dff2f124410e7f055272799b622</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-19 06:00:44</sys_created_on>
+        <sys_id>b3f02dff2f124410e7f055272799b622</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>2976</length>
+        <position>1</position>
+        <sys_attachment display_value="gitter-logo.jpg" sys_id="73f02dff2f124410e7f055272799b622">73f02dff2f124410e7f055272799b622</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-19 06:00:44</sys_created_on>
+        <sys_id>37f02dff2f124410e7f055272799b622</sys_id>
+    </sys_attachment_doc>
+</record_update>

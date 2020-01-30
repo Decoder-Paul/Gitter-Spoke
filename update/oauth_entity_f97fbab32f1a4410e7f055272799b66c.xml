@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity">
+    <oauth_entity action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <access_token_lifespan>1800</access_token_lifespan>
+        <active>true</active>
+        <auth_code_lifespan>0</auth_code_lifespan>
+        <auth_url>https://gitter.im/login/oauth/authorize</auth_url>
+        <certificate_url/>
+        <client_id>7769aa8b1ba25234ce9d2b42756ae4cc9a4043d5</client_id>
+        <client_secret>1ng0zpbGValTOM3Ii0rBBjx2gO4aiPqsexg0pXq5fOTUVnZgemJHDHsxpJr4TKMY</client_secret>
+        <client_uuid>797fbab32f1a4410e7f055272799b66c</client_uuid>
+        <code_challenge_method>S256</code_challenge_method>
+        <comments/>
+        <default_grant_type>authorization_code</default_grant_type>
+        <id_token_lifespan>0</id_token_lifespan>
+        <logo_url/>
+        <message_signature_lifespan>0</message_signature_lifespan>
+        <name>GitterOAuth</name>
+        <oauth_api_script display_value="OAuthGitterUtil">0deb8acf2f66c410e7f055272799b62a</oauth_api_script>
+        <protocol_name/>
+        <public_client>false</public_client>
+        <redirect_url>https://dev72081.service-now.com/oauth_redirect.do</redirect_url>
+        <refresh_token_lifespan>8640000</refresh_token_lifespan>
+        <refresh_token_url/>
+        <revoke_token_url/>
+        <salt>0</salt>
+        <send_client_credentials_as>request_body_parameter</send_client_credentials_as>
+        <skip_authorize>false</skip_authorize>
+        <sys_class_name>oauth_entity</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-19 13:03:01</sys_created_on>
+        <sys_id>f97fbab32f1a4410e7f055272799b66c</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>GitterOAuth</sys_name>
+        <sys_package display_value="Gitter Spoke" source="x_185256_gitter_sp">17f06dbf2f924410e7f055272799b662</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gitter Spoke">17f06dbf2f924410e7f055272799b662</sys_scope>
+        <sys_update_name>oauth_entity_f97fbab32f1a4410e7f055272799b66c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-29 11:29:46</sys_updated_on>
+        <token_url>https://gitter.im/login/oauth/token</token_url>
+        <type>oauth_provider</type>
+        <use_mutual_auth>false</use_mutual_auth>
+        <user/>
+    </oauth_entity>
+</record_update>
